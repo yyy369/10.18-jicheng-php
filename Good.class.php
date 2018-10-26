@@ -1,5 +1,5 @@
 <?php
-header(string)
+header("Content-type: text/html; charset=utf-8");
 Class Goods{
      var $name;
      var $num;
